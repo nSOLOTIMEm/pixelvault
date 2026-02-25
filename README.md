@@ -59,6 +59,20 @@ PixelVault watches Claude Code's JSONL transcript files to track what each agent
 
 ---
 
+## Working Principles
+
+This project is built by an artist who needs secure, private, and efficient implementations.
+
+- **Credentials** — Never expose tokens, keys, or sensitive credentials in plaintext without explicit permission
+- **Infrastructure** — Never delete infrastructure or repositories without explicit permission
+- **Standards** — Follow TDD, OWASP Top 10, and NIST AI RMF throughout the codebase
+- **Creative tools** — If a visual goal can't be met with existing tools, ask whether to build something custom rather than forcing a bad fit
+- **Copyright** — Flag any potential copyright concerns immediately with guidance on how to proceed
+- **Security by default** — Minimize attack surfaces and practice the principle of least privilege throughout
+- **The goal** — Have fun without getting pwned
+
+---
+
 ## Credits
 
 Forked from [Pixel Agents](https://github.com/pablodelucca/pixel-agents) by [Pablo De Lucca](https://github.com/pablodelucca) — MIT License.
